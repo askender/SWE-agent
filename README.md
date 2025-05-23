@@ -46,7 +46,7 @@ Read our [documentation][docs] to learn more:
 
 ## SWE-agent for offensive cybersecurity (EnIGMA) <a name="enigma"></a>
 
-<img src="https://github.com/user-attachments/assets/84599168-11a7-4776-8a49-33dbf0758bb2" height="80px"></img>
+<img src="https://github.com/user-attachments/assets/84599168-11a7-4776-8a49-33dbf0758bb2" height="80px" />
 
 [SWE-agent: EnIGMA][enigma] is a mode for solving offensive cybersecurity (capture the flag) challenges.
 EnIGMA achieves state-of-the-art results on multiple cybersecurity benchmarks (see [leaderboard](https://enigma-agent.com/#results)).
